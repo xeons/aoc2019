@@ -2,7 +2,7 @@
 
 ## About
 
-These are my solutions to the Advent of Code 2019.
+These are my solutions to the Advent of Code 2019. This year I decided to build all of my solutions in C++ to better acquaint myself with the language.
 
 ## Author
 
